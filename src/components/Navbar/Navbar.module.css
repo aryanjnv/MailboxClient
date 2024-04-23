@@ -1,0 +1,22 @@
+
+.nav{
+  background-color: blue;
+  height: 4rem;
+}
+.li{
+  color: aliceblue;
+  font-size: 2rem;
+  text-decoration: none;
+  list-style: none;
+  margin-right: 30px;
+  padding: 0.5rem;
+  cursor: pointer;
+
+}
+.ul{
+  display: flex;
+  justify-content: space-between;
+}
+.NavLink{
+  text-decoration: none;
+}

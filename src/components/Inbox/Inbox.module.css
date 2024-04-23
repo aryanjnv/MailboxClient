@@ -1,0 +1,49 @@
+
+.div{
+  display: flex;
+}
+.firstLine{
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+.email{
+  margin-right: 130vh;
+}
+.secondLine{
+  display: flex;
+  /* justify-content: space-between; */
+  align-items: first baseline;
+}
+.subject{
+  margin-right: 5vh;
+}
+.li{
+  list-style: none;
+  border: 2px solid rgb(248, 250, 252);
+  margin-left: 6vh;
+  padding: 8px;
+  border-radius: 1rem;
+  background-color: rgb(230, 240, 251);
+  /* font-family: Georgia, 'Times New Roman', Times, serif; */
+}
+.li{
+  margin: 2rem;
+}
+.blueTick {
+  width: 20px;
+  height: 12px;
+  background-color: blue;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 5px; 
+  position: relative;
+  top: 5px;
+}
+
+.NavLink {
+  text-decoration: none;
+  color: black;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
